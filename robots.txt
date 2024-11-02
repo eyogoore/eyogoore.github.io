@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyogoore.github.io/Mqx/sitemap_index.txt
+Sitemap: https://eyogoore.github.io/bWp/sitemap_index.txt
+Sitemap: https://eyogoore.github.io/kqO/sitemap_index.txt
+Sitemap: https://eyogoore.github.io/ngP/sitemap_index.txt
